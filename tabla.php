@@ -26,7 +26,7 @@
 <section>
 	<article>
 		<aside>
-			<form action="datos.php" method="get">
+			<form action="datos.php" id="persona" method="post">
 				Nombre:<input type="text" name="firstname" value=""><br>
 				Apellido:<input type="text" name="lastname" value=""><br>
 				<input type="submit" value="Enviar">
